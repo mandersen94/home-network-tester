@@ -1,0 +1,6 @@
+requests
+speedtest-cli
+colorama
+tqdm    
+netifaces2
+psutil
